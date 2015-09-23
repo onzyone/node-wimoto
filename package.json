@@ -1,5 +1,5 @@
 {
-  "name": "wimoto",
+  "name": "node-wimoto",
   "version": "0.0.0",
   "description": "Node.js lib for Wimoto devices ",
   "main": "index.js",
